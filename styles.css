@@ -1,0 +1,28 @@
+body {
+  background-color: #2d4059;
+  text-align: center;
+}
+
+footer {
+  font-family: "Patrick Hand", cursive;
+  font-size: 1.2rem;
+  margin-top: 300px;
+  color: #decdc3;
+}
+a {
+  color: #decdc3;
+  font-family: "Patrick Hand", cursive;
+  font-size: 5rem;
+  text-decoration: none;
+}
+
+p {
+  color: #e5e5e5;
+  font-family: "Alata", sans-serif;
+  font-size: 2rem;
+}
+
+table {
+  margin: auto;
+  border-spacing: 50px;
+}
