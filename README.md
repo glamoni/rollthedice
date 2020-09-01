@@ -1,1 +1,1 @@
-Simple dice game made using HTML + CSS and JavaScript.
+# Simple dice game made using HTML + CSS and JavaScript.
